@@ -1,1 +1,3 @@
 Train a RNN model with the text generation dataset, and use the trained model to generate a story starting with three starting words. Compare the generation result with the training data to evaluate its correctness, and report the results.
+
+In this project, we addressed two principal NLP tasks with RNNs: Text Classification and Text Generation. For text classification, we processed movie reviews to categorize them as positive or negative, employing text preprocessing, vocabulary building, and RNN models. The text generation task aimed to produce contextually relevant text sequences from seed inputs, leveraging RNNs trained on specific datasets. 
